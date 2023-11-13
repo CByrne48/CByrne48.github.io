@@ -1,0 +1,44 @@
+body {
+    background-color: #ECE3CE;
+}
+
+h1 {
+    color: #3A4D39;
+
+}
+
+hr {
+    border-color: #739072;
+    border-style: none;
+    border-top-style: dotted;
+    height: 0%;
+    border-width: 5px;
+    width: 5%
+}
+
+p {
+    color: #4F6F52;
+
+}
+
+h3 {
+    color: #4F6F52;
+}
+
+li {
+    color: #4F6F52;
+
+}
+
+th {
+    color: #4F6F52;
+}
+
+td {
+    color: #4F6F52;
+}
+
+img {
+    max-width: 75%;
+    height: auto;
+}
